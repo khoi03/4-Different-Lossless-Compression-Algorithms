@@ -20,20 +20,15 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 
 ### b. LZ77
 **Image:**
-|       Name      |   Ratio   |                           
-| :-------------: | :------: |
-| <pre>2heart</pre> |   0.03   |
-| <pre>background</pre> |   3.19   |
-| <pre>beach</pre> |   1.82   |
-| <pre>cartoon</pre> |   2.05   |
-| <pre>hanamichi</pre> |   0.36   |
-| <pre>harrypotter</pre> |   2.30   |
-| <pre>heart</pre> |   0.05   |
-| <pre>people</pre> |   3.45   |
-| <pre>pikachu</pre> |   0.98   |
-| <pre>planet</pre> |   1.56   |
-| <pre>rukawa</pre> |   2.90   |
-| <pre>spiderman</pre> |   1.89   |
+|       Name      |   Ratio   |       Name      |   Ratio   |                    
+| :-------------: | :------: | :-------------: | :------: |
+| <pre>2heart</pre> |   0.03   | <pre>heart</pre> |   0.05   |
+| <pre>background</pre> |   3.19   | <pre>people</pre> |   3.45   |
+| <pre>beach</pre> |   1.82   | <pre>pikachu</pre> |   0.98   |
+| <pre>cartoon</pre> |   2.05   | <pre>planet</pre> |   1.56   |
+| <pre>hanamichi</pre> |   0.36   | <pre>rukawa</pre> |   2.90   |
+| <pre>harrypotter</pre> |   2.30   | | <pre>spiderman</pre> |   1.89   |
+
 | <pre>todolist</pre> |   2.33   |
 
 **Sound:**
@@ -52,42 +47,6 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 | <pre>Text1</pre> |   2.11   |
 | <pre>Text2</pre> |   2.08   |
 
-<table>
-  <tr>
-    <td>
-      <strong>Image:</strong><br>
-      <table>
-        <tr>
-          <th>Name</th>
-          <th>Ratio</th>
-        </tr>
-        | <pre>2heart</pre> |   0.03   |
-        | <pre>background</pre> |   3.19   |
-        | <pre>beach</pre> |   1.82   |
-        | <pre>cartoon</pre> |   2.05   |
-        | <pre>hanamichi</pre> |   0.36   |
-        | <pre>harrypotter</pre> |   2.30   |
-        | <pre>heart</pre> |   0.05   |
-        | <pre>people</pre> |   3.45   |
-        | <pre>pikachu</pre> |   0.98   |
-        | <pre>planet</pre> |   1.56   |
-        | <pre>rukawa</pre> |   2.90   |
-        | <pre>spiderman</pre> |   1.89   |
-        | <pre>todolist</pre> |   2.33   |
-      </table>
-    </td>
-    <td>
-      <strong>Sound:</strong><br>
-      <table>
-        <tr>
-          <th>Name</th>
-          <th>Ratio</th>
-        </tr>
-        <!-- Sound table rows here -->
-      </table>
-    </td>
-  </tr>
-</table>
 
 
   
