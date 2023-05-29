@@ -1,0 +1,5 @@
+sample3(Search buffer: 1500, Lookahead buffer: 1500): 2.252471053374753
+Text(Search buffer: 1500, Lookahead buffer: 1500): 2.1030542281321423
+Text1(Search buffer: 1500, Lookahead buffer: 1500): 2.106624395127649
+Text2(Search buffer: 1500, Lookahead buffer: 1500): 2.0820319511757313
+

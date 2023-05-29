@@ -1,0 +1,14 @@
+2heart(Search buffer: 5000, Lookahead buffer: 5000): 0.030360603717013847
+background(Search buffer: 5000, Lookahead buffer: 5000): 3.1891947968116927
+beach(Search buffer: 5000, Lookahead buffer: 5000): 1.8190917614124047
+cartoon(Search buffer: 5000, Lookahead buffer: 5000): 2.0547558409921383
+hanamichi(Search buffer: 5000, Lookahead buffer: 5000): 0.3615792366209087
+harrypotter(Search buffer: 5000, Lookahead buffer: 5000): 2.2985335566709666
+heart(Search buffer: 5000, Lookahead buffer: 5000): 0.04616521689692422
+people(Search buffer: 5000, Lookahead buffer: 5000): 3.450789156720737
+pikachu(Search buffer: 5000, Lookahead buffer: 5000): 0.9825995807127883
+planet(Search buffer: 5000, Lookahead buffer: 5000): 1.5601426713435542
+rukawa(Search buffer: 5000, Lookahead buffer: 5000): 2.89846345787642
+spiderman(Search buffer: 5000, Lookahead buffer: 5000): 1.8931391472188104
+todolist(Search buffer: 5000, Lookahead buffer: 5000): 2.3289038741240247
+

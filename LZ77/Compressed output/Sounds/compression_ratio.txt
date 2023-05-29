@@ -1,0 +1,5 @@
+00ae03f6(Search buffer: 10000, Lookahead buffer: 10000): 3.630537410321213
+00eac343(Search buffer: 10000, Lookahead buffer: 10000): 3.112690735419112
+0a5cbf90(Search buffer: 10000, Lookahead buffer: 10000): 2.7845039477512366
+sound(Search buffer: 10000, Lookahead buffer: 10000): 2.171013129531648
+
