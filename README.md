@@ -4,18 +4,25 @@
 There are numerous lossless compression algorithms utilized for various types of data. In this GitHub repository, we conduct experiments to compare four different lossless compression algorithms—Arithmetic Coding, LZ77, LZW, and Deflate (PNG)—sorted in ascending order based on their performance. We evaluate their effectiveness across three data types: images, text, and sound.
 
 ## Table of contents:
-1. [Compressed ratios of each algorithm](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#a-arithmetic-coding)
+1. [Compressed ratios of each algorithm](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#1-compressed-ratios-of-each-algorithm)
 
     a.  [Arithmetic Coding](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#a-arithmetic-coding)
   
-    b.  [LZ77](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#a-arithmetic-coding)
+    b.  [LZ77](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#b-lz77)
   
-    c.  LZW
+    c.  [LZW]((https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#c-lzw))
   
-    d.  Deflate (PNG)
+    d.  [Deflate(PNG)](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#d-deflate-png)
   
-2.  Statistic table
+[2.  Statistic table](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#2--statistic-table)
 
+    a.  [Image](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#a-arithmetic-coding)
+  
+    b.  [Sound](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#b-lz77)
+  
+    c.  [Text]((https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#c-lzw))
+    
+    
 ## 1. Compressed ratios of each algorithm:
 
 ### a. Arithmetic Coding
@@ -134,7 +141,7 @@ There are numerous lossless compression algorithms utilized for various types of
 
 ## 2.  Statistic table
 
--   **Image:**
+### a.  Image:
 
     
     
@@ -203,7 +210,7 @@ There are numerous lossless compression algorithms utilized for various types of
 </sub>
 
 
--   **Sound:**
+### b.  Sound:
 
 <table>
   <tr>
@@ -260,7 +267,7 @@ There are numerous lossless compression algorithms utilized for various types of
     
 </sub>
 
--   **Text:**
+### c.  Text:
 
 <table>
   <tr>
