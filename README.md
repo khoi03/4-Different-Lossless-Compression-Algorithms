@@ -4,11 +4,11 @@
 There are numerous lossless compression algorithms utilized for various types of data. In this GitHub repository, we conduct experiments to compare four different lossless compression algorithms—Arithmetic Coding, LZ77, LZW, and Deflate (PNG)—sorted in ascending order based on their performance. We evaluate their effectiveness across three data types: images, text, and sound.
 
 ## Table of contents:
-1. Compressed ratios of each algorithm
+1. [Compressed ratios of each algorithm](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#a-arithmetic-coding)
 
-    a.  Arithmetic Coding
+    a.  [Arithmetic Coding](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#a-arithmetic-coding)
   
-    b.  LZ77
+    b.  [LZ77](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#a-arithmetic-coding)
   
     c.  LZW
   
