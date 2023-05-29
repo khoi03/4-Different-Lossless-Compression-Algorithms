@@ -79,6 +79,13 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 | <pre>sample3</pre> |   1.63   | <pre>Text1</pre> |   1.08   |
 | <pre>Text</pre> |   1.45   | <pre>Text2</pre> |   0.80   |
 
+|    Name    |   Ratio   |
+|------------|----------|
+| Row 1, Cell 1 |   0.03   |
+| <span rowspan="2">Row 2, Cell 1</span> |   3.19   |
+| Row 3, Cell 1 |   1.82   |
+| Row 4, Cell 1 |   2.05   |
+
 
 ### d. Deflate (PNG)
 
