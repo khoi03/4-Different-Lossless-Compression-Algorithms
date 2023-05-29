@@ -21,6 +21,7 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 ### b. LZ77
   **Image:**
 <table cellspacing="10">
+  
 |   Name    |   Ratio     |
 |  :---: | :---: |
 |   2heart  |   0.03  |
@@ -36,6 +37,7 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 |   rukawa |  2.90   |
 |   spiderman |   1.89   |
 |   todolist |  2.33   |
+  
 </table>
 
 ### c. LZW
