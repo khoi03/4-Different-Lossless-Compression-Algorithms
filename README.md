@@ -25,7 +25,7 @@ There are numerous lossless compression algorithms utilized for various types of
     
 ## 1. Compressed ratios of each algorithm:
 
-The compressed ratio is calculated as:  $$\frac{Compressed  File}{Original  File}$$
+**The compressed ratio is calculated as:**  $$\frac{Compressed  File}{Original  File}$$
 
 ### a. Arithmetic Coding
 -   **Image:**
