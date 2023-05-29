@@ -25,6 +25,7 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 
 ### b. LZ77
 -   **Image:**
+    
 |       Name      |   Ratio   |       Name      |   Ratio   |                    
 | :-------------: | :------: | :-------------: | :------: |
 | <pre>2heart</pre> |   0.03   | <pre>heart</pre> |   0.05   |
