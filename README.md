@@ -61,7 +61,19 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
           <th>Name</th>
           <th>Ratio</th>
         </tr>
-        <!-- Image table rows here -->
+        | <pre>2heart</pre> |   0.03   |
+        | <pre>background</pre> |   3.19   |
+        | <pre>beach</pre> |   1.82   |
+        | <pre>cartoon</pre> |   2.05   |
+        | <pre>hanamichi</pre> |   0.36   |
+        | <pre>harrypotter</pre> |   2.30   |
+        | <pre>heart</pre> |   0.05   |
+        | <pre>people</pre> |   3.45   |
+        | <pre>pikachu</pre> |   0.98   |
+        | <pre>planet</pre> |   1.56   |
+        | <pre>rukawa</pre> |   2.90   |
+        | <pre>spiderman</pre> |   1.89   |
+        | <pre>todolist</pre> |   2.33   |
       </table>
     </td>
     <td>
