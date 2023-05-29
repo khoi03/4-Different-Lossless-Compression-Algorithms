@@ -10,17 +10,17 @@ There are numerous lossless compression algorithms utilized for various types of
   
     b.  [LZ77](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#b-lz77)
   
-    c.  [LZW]((https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#c-lzw))
+    c.  [LZW](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#c-lzw)
   
     d.  [Deflate(PNG)](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#d-deflate-png)
   
-[2.  Statistic table](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#2--statistic-table)
+2.  [Statistic table](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#2--statistic-table)
 
-    a.  [Image](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#a-arithmetic-coding)
+    a.  [Image](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#a--image)
   
-    b.  [Sound](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#b-lz77)
+    b.  [Sound](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#b--sound)
   
-    c.  [Text]((https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#c-lzw))
+    c.  [Text](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#c--text)
     
     
 ## 1. Compressed ratios of each algorithm:
