@@ -151,7 +151,7 @@ There are numerous lossless compression algorithms utilized for various types of
     <img src="https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/assets/80579165/cb2f78b3-7fc7-4492-a83e-1033d54d11f9" width=200 height=200>
 </p>
 
-                               2heart(Best case)               people(Worst case)
+                                 2heart(Best case)               people(Worst case)
         
     
 <table>
