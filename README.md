@@ -36,14 +36,16 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 | <pre>harrypotter</pre> |   2.30   | <pre>spiderman</pre> |   1.89   |
 | <pre>todolist</pre> |   2.33   |
 
-**Sound:**
+-   **Sound:**
+    
 |      Name       |   Ratio   |      Name       |   Ratio   |
 | :-------------: | :------: | :-------------: | :------: |
 | <pre>00ae03f6</pre> |   3.63   | <pre>0a5cbf90</pre> |   2.78   |
 | <pre>00eac343</pre> |   3.11   | <pre>sound</pre> |    2.17    |
 
 
-**Text:**
+-   **Text:**
+    
 |      Name       |   Ratio   |      Name       |   Ratio   |
 | :-------------: | :------: | :-------------: | :------: |
 | <pre>sample3</pre> |   2.25   | <pre>Text1</pre> |   2.11   |
@@ -51,7 +53,8 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 
   
 ### c. LZW
-**Image:**
+-   **Image:**
+    
 |       Name      |   Ratio   |       Name      |   Ratio   |                    
 | :-------------: | :------: | :-------------: | :------: |
 | <pre>2heart</pre> |   0.01   | <pre>heart</pre> |   0.07   |
@@ -62,13 +65,15 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 | <pre>harrypotter</pre> |   0.84   | <pre>spiderman</pre> |   0.89   |
 | <pre>todolist</pre> |   1.11   |
 
-**Sound:**
+-   **Sound:**
+    
 |      Name       |   Ratio   |      Name       |   Ratio   |
 | :-------------: | :------: | :-------------: | :------: |
 | <pre>00ae03f6</pre> |   1.57   | <pre>0a5cbf90</pre> |   1.43   |
 | <pre>00eac343</pre> |   1.29   | <pre>sound</pre> |    0.85    |
 
-**Text:**
+-   **Text:**
+    
 |      Name       |   Ratio   |      Name       |   Ratio   |
 | :-------------: | :------: | :-------------: | :------: |
 | <pre>sample3</pre> |   1.63   | <pre>Text1</pre> |   1.08   |
