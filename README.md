@@ -36,20 +36,17 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 | <pre>todolist</pre> |   2.33   |
 
 **Sound:**
-|      Name       |   Ratio   |
-| :-------------: | :------: |
-| <pre>00ae03f6</pre> |   3.63   |
-| <pre>00eac343</pre> |   3.11   |
-| <pre>0a5cbf90</pre> |   2.78   |
-| <pre>sound</pre> |    2.17    |
+|      Name       |   Ratio   |      Name       |   Ratio   |
+| :-------------: | :------: | :-------------: | :------: |
+| <pre>00ae03f6</pre> |   3.63   | <pre>0a5cbf90</pre> |   2.78   |
+| <pre>00eac343</pre> |   3.11   | <pre>sound</pre> |    2.17    |
+
 
 **Text:**
-|      Name       |   Ratio   |
-| :-------------: | :------: |
-| <pre>sample3</pre> |   2.25   |
-| <pre>Text</pre> |   2.10   |
-| <pre>Text1</pre> |   2.11   |
-| <pre>Text2</pre> |   2.08   |
+|      Name       |   Ratio   |      Name       |   Ratio   |
+| :-------------: | :------: | :-------------: | :------: |
+| <pre>sample3</pre> |   2.25   | <pre>Text1</pre> |   2.11   |
+| <pre>Text</pre> |   2.10   | <pre>Text2</pre> |   2.08   |
 
   
 ### c. LZW
@@ -65,21 +62,16 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 | <pre>todolist</pre> |   1.11   |
 
 **Sound:**
-|      Name       |   Ratio   |
-| :-------------: | :------: |
-| <pre>00ae03f6</pre> |   1.57   |
-| <pre>00eac343</pre> |   1.29   |
-| <pre>0a5cbf90</pre> |   1.43   |
-| <pre>sound</pre> |    0.85    |
+|      Name       |   Ratio   |      Name       |   Ratio   |
+| :-------------: | :------: | :-------------: | :------: |
+| <pre>00ae03f6</pre> |   1.57   | <pre>0a5cbf90</pre> |   1.43   |
+| <pre>00eac343</pre> |   1.29   | <pre>sound</pre> |    0.85    |
 
 **Text:**
-|      Name       |   Ratio   |
-| :-------------: | :------: |
-| <pre>sample3</pre> |   1.63   |
-| <pre>Text</pre> |   1.45   |
-| <pre>Text1</pre> |   1.08   |
-| <pre>Text2</pre> |   0.80   |
-
+|      Name       |   Ratio   |      Name       |   Ratio   |
+| :-------------: | :------: | :-------------: | :------: |
+| <pre>sample3</pre> |   1.63   | <pre>Text1</pre> |   1.08   |
+| <pre>Text</pre> |   1.45   | <pre>Text2</pre> |   0.80   |
 
 
 ### d. Deflate (PNG)
