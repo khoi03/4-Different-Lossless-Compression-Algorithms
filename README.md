@@ -44,6 +44,14 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 |   0a5cbf90   |  2.78   |
 |   sound  |  2.17   |
 
+  **Text:**
+|   Name    |   Ratio     |
+|  :---: | :---: |
+|   sample3  |    2.25    |
+|   Text   |    2.10    |
+|   Text1  |    2.11    |
+|   Text2  |    2.08    |
+  
 ### c. LZW
 
 
