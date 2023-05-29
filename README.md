@@ -25,6 +25,8 @@ There are numerous lossless compression algorithms utilized for various types of
     
 ## 1. Compressed ratios of each algorithm:
 
+The fraction is displayed as: \( \frac{a}{b} \)
+
 ### a. Arithmetic Coding
 -   **Image:**
     
