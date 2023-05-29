@@ -28,7 +28,6 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 | <pre>cartoon</pre> |   2.05   | <pre>planet</pre> |   1.56   |
 | <pre>hanamichi</pre> |   0.36   | <pre>rukawa</pre> |   2.90   |
 | <pre>harrypotter</pre> |   2.30   | <pre>spiderman</pre> |   1.89   |
-
 | <pre>todolist</pre> |   2.33   |
 
 **Sound:**
