@@ -20,7 +20,7 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 
 ### b. LZ77
 **Image:**
-|       Name      |   Ratio   |
+|       Name      |   Ratio   |                           
 | :-------------: | :------: |
 | <pre>2heart</pre> |   0.03   |
 | <pre>background</pre> |   3.19   |
@@ -52,6 +52,36 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 | <pre>Text1</pre> |   2.11   |
 | <pre>Text2</pre> |   2.08   |
 
+<div style="display: flex;">
+  <div style="flex: 1;">
+    **Image:**
+    |       Name      |   Ratio   |
+    | --------------- | -------- |
+    |      2heart     |   0.03   |
+    |    background   |   3.19   |
+    |      beach      |   1.82   |
+    |     cartoon     |   2.05   |
+    |    hanamichi    |   0.36   |
+    |   harrypotter   |   2.30   |
+    |      heart      |   0.05   |
+    |     people      |   3.45   |
+    |     pikachu     |   0.98   |
+    |     planet      |   1.56   |
+    |     rukawa      |   2.90   |
+    |    spiderman    |   1.89   |
+    |    todolist     |   2.33   |
+  </div>
+
+  <div style="flex: 1;">
+    **Sound:**
+    |      Name       |   Ratio   |
+    | --------------- | -------- |
+    |    00ae03f6     |   3.63   |
+    |    00eac343     |   3.11   |
+    |    0a5cbf90     |   2.78   |
+    |      sound      |   2.17   |
+  </div>
+</div>
 
   
 ### c. LZW
