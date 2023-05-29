@@ -6,13 +6,13 @@ We compare four different lossless compression algorithms: Arithmetic Coding, LZ
 ## Table of contents:
 1. Compressed ratios of each algorithm
 
-  a.  Arithmetic Coding
+    a.  Arithmetic Coding
   
-  b.  LZ77
+    b.  LZ77
   
-  c.  LZW
+    c.  LZW
   
-  d.  Deflate (PNG)
+    d.  Deflate (PNG)
   
 2.  Statistic table
 
