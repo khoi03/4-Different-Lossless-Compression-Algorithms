@@ -4,23 +4,23 @@
 There are numerous lossless compression algorithms utilized for various types of data. In this GitHub repository, we conduct experiments to compare four different lossless compression algorithms—**Arithmetic Coding, LZ77, LZW, and Deflate (PNG)**—sorted in ascending order based on their performance. We evaluate their effectiveness across three data types: **images, text, and sound.**
 
 ## Table of contents:
-1. [Compressed ratios of each algorithm](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#1-compressed-ratios-of-each-algorithm)
+1. [Compressed ratios of each algorithm](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms#1-compressed-ratios-of-each-algorithm)
 
-    a.  [Arithmetic Coding](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#a-arithmetic-coding)
+    a.  [Arithmetic Coding](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms#a-arithmetic-coding)
   
-    b.  [LZ77](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#b-lz77)
+    b.  [LZ77](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms#b-lz77)
   
-    c.  [LZW](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#c-lzw)
+    c.  [LZW](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms#c-lzw)
   
-    d.  [Deflate(PNG)](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#d-deflate-png)
+    d.  [Deflate(PNG)](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms#d-deflate-png)
   
-2.  [Statistic table](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#2--statistic-table)
+2.  [Statistic table](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms#2--statistic-table)
 
-    a.  [Image](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#a--image)
+    a.  [Image](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms#a--image)
   
-    b.  [Sound](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#b--sound)
+    b.  [Sound](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms#b--sound)
   
-    c.  [Text](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/blob/master/README.md#c--text)
+    c.  [Text](https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms#c--text)
     
     
 ## 1. Compressed ratios of each algorithm:
@@ -151,7 +151,7 @@ There are numerous lossless compression algorithms utilized for various types of
     <img src="https://github.com/khoi03/4-Different-Lossless-Compression-Algorithms/assets/80579165/cb2f78b3-7fc7-4492-a83e-1033d54d11f9" width=200 height=200>
 </p>
 
-                                        2heart(Best case)               people(Worst case)
+                                    2heart(Best case)               people(Worst case)
         
     
 <table>
