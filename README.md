@@ -325,4 +325,4 @@ There are numerous lossless compression algorithms utilized for various types of
 </table>
 
 ## Conclusion
-In conclusion, based on our experiments, Deflate (PNG) consistently demonstrated the best performance across all types of data. Moreover, it exhibits excellent capability in handling complex data. Conversely, Arithmetic Coding, LZ77, and LZW algorithms are more suited for simple and regular data, displaying comparatively lower effectiveness.
+In conclusion, based on our experiments, **Deflate (PNG)** consistently demonstrated the best performance across all types of data. Moreover, it exhibits excellent capability in handling complex data. Conversely, **Arithmetic Coding, LZ77, and LZW algorithms** are more suited for simple and regular data, displaying comparatively lower effectiveness.
